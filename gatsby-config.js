@@ -10,7 +10,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.example.com`,
+    siteUrl: `https://www.stahlnecker.me`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
