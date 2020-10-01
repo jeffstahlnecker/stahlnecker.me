@@ -1,4 +1,4 @@
-# Gatsby Stahlnecker Starter
+# Gatsby Stahlnecker Starter.
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
